@@ -9,3 +9,7 @@
 # Description
 
 This is test tusk from Yandex. I have developed landing page for Yandex via html/css. [tusk link](https://www.figma.com/file/hPoTSryZFpFN5J0ookjAir/Yandes-test?type=design&node-id=0%3A1&mode=design&t=MfsrCtDMTgZoAEz1-1)
+
+# Project link
+
+You can show project on GitHub Pages [here](https://bobrov-site.github.io/yandex-test.github.io/)
